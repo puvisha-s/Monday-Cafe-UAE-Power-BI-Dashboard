@@ -54,16 +54,14 @@ This design keeps the model simple, performant, and aligned with the project’s
   - Latest completed week detection
   - Previous week comparison
 
-📷 *Data model view:*
-![Data Model](./screenshots/data_model.png)
-
 ---
 
 ## 📊 Dashboard Overview
 The dashboard follows Power BI best practices to ensure consistent usability across Power BI Desktop and Power BI Service.
 
-📷 *Dashboard view:*
-![Dashboard](./screenshots/dashboard.png)
+📷 Dashboard view:
+
+![Dashboard](./screenshots/Monday_Cafe_Dashboard.png)
 
 ---
 
