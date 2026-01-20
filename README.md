@@ -124,6 +124,10 @@ Each KPI includes:
   - **Chicken Sandwich** generates the highest sales revenue
 
 ---
+## 📥 Power BI File
+*The Power BI report file (`.pbix`) is available in this repository.*
+
+---
 
 ## 👤 About Me
 **Puvisha Saravanan**  
